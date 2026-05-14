@@ -1,4 +1,4 @@
-# 
+# custom isolated-margin trading bot Tool | price-monitoring + risk-management is the best isolated-margin trading bot, featuring price-monitoring and risk-management. Smart, fast,
 
 
 
